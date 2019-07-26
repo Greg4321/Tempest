@@ -7,7 +7,7 @@
 # In[1]:
 u
 
-# Ssd k,gusdj g\skhg.k,ghsrt matplotlib
+# Ssd k,gusdj g\skhg.k,ghgsdfsdfsdfsdfsrt matplotlib
 get_ipython().run_line_magic('matplotlib', 'inline')
 
 from datetime import timedelta
